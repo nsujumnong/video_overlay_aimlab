@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/aimlab3/CLionProjects/chromaKey/main.cpp
+opencv2/objdetect/objdetect.hpp
+/home/aimlab3/CLionProjects/chromaKey/opencv2/objdetect/objdetect.hpp
+opencv2/highgui/highgui.hpp
+/home/aimlab3/CLionProjects/chromaKey/opencv2/highgui/highgui.hpp
+opencv2/imgproc/imgproc.hpp
+/home/aimlab3/CLionProjects/chromaKey/opencv2/imgproc/imgproc.hpp
+iostream
+-
+stdio.h
+-
+
